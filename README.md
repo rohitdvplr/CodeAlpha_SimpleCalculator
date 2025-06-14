@@ -8,7 +8,7 @@ This calculator supports all basic arithmetic operations: addition, subtraction,
 
 ## 🚀 Live Demo
 
-🔗 [Click to View Live](https://yourusername.github.io/calculator/)  
+🔗 [Click to View Live] (https://rohitdvplr.github.io/CodeAlpha_SimpleCalculator/)  
 _(Replace this link with your GitHub Pages or Netlify link)_
 
 ---
